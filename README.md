@@ -1,13 +1,11 @@
-﻿# DevOps Project – GitHub Actions + Vercel Deployment
+# DevOps Project – GitHub Actions + Vercel Deployment
 
 ## Project Overview
-This project demonstrates a simple DevOps workflow using GitHub Actions and Vercel deployment. The goal of the project is to automate the deployment process whenever changes are pushed to the GitHub repository.
-
----
+This project demonstrates a simple DevOps workflow using GitHub Actions and Vercel deployment. The goal is to automate deployment whenever changes are pushed to the repository.
 
 ## Project Structure
 
-```bash
+```
 DEVOPS-PROJECT/
 │
 ├── .github/
@@ -17,3 +15,4 @@ DEVOPS-PROJECT/
 ├── app.py
 ├── index.html
 └── README.md
+```
